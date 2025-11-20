@@ -1,0 +1,69 @@
+header{ margin: -25px;
+    background-color: RoyalBlue; color: white;
+    font-family: Proxima Nova
+; font-size: 24pt;
+    text-align: center;
+       padding: 0pt;
+       position: sticky;
+       top: 0; 
+}
+
+.topnav{ overflow: hidden;
+  background-color: RoyalBlue;
+    padding: 0px ;
+    margin: -25px; color: white;
+
+}
+
+.topnav a{ margin: 10px;
+  float: left;
+  color: white;
+  text-align: center;
+    font-family: Proxima Nova;
+  padding: 15px;
+padding-bottom: 5px;
+    text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover{
+  background-color: DeepSkyBlue;
+  color: black;
+}
+
+.topnav a.active{
+  background-color: DeepSkyBlue;
+  color: black;
+}
+
+h1{
+    padding-top: 20px;
+        font-family: Proxima Nova; font-size: 30pt;
+
+}
+
+h2{ font-family: Proxima Nova; font-size: 28;
+  }
+h3{ font-family: Proxima Nova
+    ; font-size: 20pt;
+   
+}
+    
+
+body{ margin: 25px 25px;
+    font-family: Proxima Nova
+    ; font-size: 14pt;
+    line-height: 1.5;
+}
+
+footer{ margin: -25px;
+       position: sticky;
+       margin-top: 20px;
+    
+    background-color: RoyalBlue;
+    color: white;
+    font-family: Proxima Nova
+    ; font-size: 14pt;
+    text-align: center;
+    padding: 8pt;
+}
