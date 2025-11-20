@@ -1,7 +1,7 @@
 header{ margin: -25px;
     background-color: RoyalBlue; color: white;
     font-family: Proxima Nova
-; font-size: 24pt;
+; font-size: 20pt;
     text-align: center;
        padding: 0pt;
        position: sticky;
@@ -20,10 +20,10 @@ header{ margin: -25px;
   color: white;
   text-align: center;
     font-family: Proxima Nova;
-  padding: 15px;
+  padding: 8px;
 padding-bottom: 5px;
     text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .topnav a:hover{
