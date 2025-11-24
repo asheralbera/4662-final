@@ -50,13 +50,14 @@ h3{ margin: 25px 25px; font-family: Proxima Nova;
     font-size: 20pt;
 }
 
-body{ margin: 25px;
+body{ margin: 0;
     font-family: Proxima Nova
     ; font-size: 16pt;
     line-height: 1.5;
     }
 
-p{ margin: 50px;}
+p{ margin: 50px;
+ }
 
 ul{ margin: 50px}
 
