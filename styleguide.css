@@ -1,18 +1,18 @@
-header{ margin: -25px;
-header{ margin: 0px;
+
+header{ margin: 0;
     background-color: RoyalBlue; color: white;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
-       position: sticky;
-       top: 0; 
-       padding: 0px; 
+       position: fixed;
+       padding: 0; 
+       width: 100%
 }
 
-.topnav{ overflow: hidden;
+.topnav{
   background-color: RoyalBlue;
     padding-top: 15px ;
-    margin: -25px; color: white;
+    color: white;
 
 }
 
@@ -60,7 +60,7 @@ p{ margin: 50px;}
 ul{ margin: 50px}
 
 
-footer{  position: fixed;
+footer{
        width: 100%; 
        margin-top: 20px;
     background-color: RoyalBlue;
