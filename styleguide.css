@@ -70,4 +70,5 @@ footer{ position: fixed;
     ; font-size: 14pt;
     text-align: center;
     padding: 8pt;
+    width: 100%;
 }
