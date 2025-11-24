@@ -3,6 +3,8 @@ header{ margin: 0px;
     background-color: RoyalBlue; color: white;
     position: sticky;
        top: 0;
+       right: 0;
+       left:0;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
