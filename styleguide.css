@@ -1,19 +1,17 @@
 
-header{ margin: 0;
+header{ margin: -25px;
     background-color: RoyalBlue; color: white;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
-       position: fixed;
-       padding: 0; 
-       width: 100%
+       position: sticky;
+       top: 0; 
 }
 
-.topnav{
+.topnav{ 
   background-color: RoyalBlue;
     padding-top: 15px ;
-    color: white;
-
+    margin: -25px; color: white;
 }
 
 .topnav a{ margin: 10px; text-decoration: none;
@@ -23,8 +21,8 @@ header{ margin: 0;
     font-family: Proxima Nova;
   padding: 20px;
 padding-bottom: 5px;
-
-  font-size: 18px; }
+  font-size: 18px;
+}
 
 .topnav a:hover{
   background-color: DeepSkyBlue;
@@ -36,36 +34,37 @@ padding-bottom: 5px;
   color: black;
 }
 
-h1{ 
+h1{ margin: 25px 25px;
     padding-top: 20px;
         font-family: Proxima Nova; font-size: 30pt;
-
 }
 
-h2{  font-family: Proxima Nova; font-size: 28;
+h2{ margin: 25px 25px; font-family: Proxima Nova; font-size: 28;
   }
-h3{  font-family: Proxima Nova
-    ; font-size: 20pt;
-   
+
+h3{ margin: 25px 25px; font-family: Proxima Nova;
+    font-size: 20pt;
 }
-    
 
 body{ margin: 25px;
     font-family: Proxima Nova
     ; font-size: 16pt;
-    line-height: 1.5; }
+    line-height: 1.5;
+    }
 
 p{ margin: 50px;}
 
 ul{ margin: 50px}
 
 
-footer{
-       width: 100%; 
+footer{ margin: -25px;
+       position: sticky;
        margin-top: 20px;
     background-color: RoyalBlue;
     color: white;
     font-family: Proxima Nova
     ; font-size: 14pt;
+    text-align: center;
+    padding: 8pt;
     text-align: center;
 }
