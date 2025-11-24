@@ -35,24 +35,28 @@ padding-bottom: 5px;
   color: black;
 }
 
-h1{ margin: 25px 25px;
+h1{ 
     padding-top: 20px;
         font-family: Proxima Nova; font-size: 30pt;
 
 }
 
-h2{ margin: 25px 25px; font-family: Proxima Nova; font-size: 28;
+h2{  font-family: Proxima Nova; font-size: 28;
   }
-h3{ margin: 25px 25px; font-family: Proxima Nova
+h3{  font-family: Proxima Nova
     ; font-size: 20pt;
    
 }
     
 
-body{ margin: 50px;
+body{ margin: 25px;
     font-family: Proxima Nova
     ; font-size: 16pt;
-    line-height: 1.5;
+    line-height: 1.5; }
+
+p{ margin: 50px;}
+
+ul{ margin: 50px}
 
 
 footer{ margin: -25px;
