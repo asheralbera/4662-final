@@ -55,10 +55,10 @@ body{ margin: 0;
     line-height: 1.5;
     }
 
-p{ margin: 50px; padding-right: 50px;
+p{ margin: 50px; padding-right: 80px; padding-left: 80px;
  }
 
-ul{ margin: 50px; }
+ul{ margin: 50px; padding-right: 80px; padding-left: 80px;}
 
 
 footer{ 
