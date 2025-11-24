@@ -1,17 +1,21 @@
 
-header{ margin: -25px;
+header{ margin: 0px;
     background-color: RoyalBlue; color: white;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
-       position: sticky;
-       top: 0; 
+       position: fixed;
+       padding: 0px; 
+       width: 100%;
 }
 
 .topnav{ overflow: hidden;
   background-color: RoyalBlue;
+    padding-left: 0px;
+    padding-right: 0px;
     padding-top: 15px ;
     width:100%; color: white;
+        margin: 0px;
 }
 
 .topnav a{ margin: 10px; text-decoration: none;
@@ -58,7 +62,7 @@ ul{ margin: 50px}
 
 
 footer{ margin: -25px;
-       position: sticky;
+       position: fixed;
        margin-top: 20px;
     background-color: RoyalBlue;
     color: white;
@@ -66,5 +70,4 @@ footer{ margin: -25px;
     ; font-size: 14pt;
     text-align: center;
     padding: 8pt;
-    text-align: center;
 }
