@@ -1,10 +1,10 @@
-header{ margin: -25px;
+header{ margin: 0px;
     background-color: RoyalBlue; color: white;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
        position: sticky;
-       top: 0; 
+       padding: 0px; 
 }
 
 .topnav{ overflow: hidden;
