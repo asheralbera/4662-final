@@ -1,12 +1,12 @@
 
 header{ margin: 0px;
     background-color: RoyalBlue; color: white;
-    position: fixed;
+    position: sticky;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
-       padding-top:10px;
-       padding-bottom:10px;
+       padding-top:5px;
+       padding-bottom:5px;
        width: 100%;
 }
 
