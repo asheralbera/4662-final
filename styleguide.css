@@ -10,11 +10,12 @@ header{
    
 }
 
-.topnav{ overflow: hidden;
+.topnav{ 
   background-color: RoyalBlue;
     padding-top: 30px ;
-    margin: 0; color: white;
+     color: white;
         width: 100%;
+    margin: 0;
 
 }
 
@@ -65,7 +66,6 @@ ul{ margin: 50px}
 
 footer{  position: fixed;
        width: 100%; 
-    margin: 0; 
     padding: 0;
        margin-top: 20px;
     
