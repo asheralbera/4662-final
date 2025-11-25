@@ -4,24 +4,11 @@ header{ background-color: RoyalBlue; color: white;
     font-family: Proxima Nova
 ; font-size: 20pt;
        padding-top:5px;
-       padding-bottom:5px;}
-
-header-left{background-color: RoyalBlue; color: white;
-    position: sticky;
-       top: 0;
-    font-family: Proxima Nova
-; font-size: 20pt;
-       padding-top:5px;
        padding-bottom:5px;
-           text-align: left;}
-header-right{ background-color: RoyalBlue; color: white;
-    position: sticky;
-       top: 0;
-    font-family: Proxima Nova
-; font-size: 20pt;
-       padding-top:5px;
-       padding-bottom:5px;
-           text-align: right;}
+      display: flex;
+    justify-content: space-between;
+       align-items: center;
+      }
 
 .topnav{ overflow: hidden;
   background-color: RoyalBlue;
