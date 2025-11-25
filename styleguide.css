@@ -6,7 +6,7 @@ header-left{background-color: RoyalBlue; color: white;
 ; font-size: 20pt;
        padding-top:5px;
        padding-bottom:5px;
-           float: left;}
+           text-align: left;}
 header-right{ background-color: RoyalBlue; color: white;
     position: sticky;
        top: 0;
@@ -14,7 +14,7 @@ header-right{ background-color: RoyalBlue; color: white;
 ; font-size: 20pt;
        padding-top:5px;
        padding-bottom:5px;
-           float: right;}
+           text-align: right;}
 
 .topnav{ overflow: hidden;
   background-color: RoyalBlue;
