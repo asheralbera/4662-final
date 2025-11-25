@@ -4,7 +4,6 @@ header{ background-color: RoyalBlue; color: white;
        top: 0;
     font-family: Proxima Nova
 ; font-size: 20pt;
-    text-align: center;
        padding-top:5px;
        padding-bottom:5px;
       
@@ -39,8 +38,7 @@ padding-bottom: 5px;
 
 h1{ margin: 25px;
     padding-top: 20px;
-   padding-right: 170px;
-   padding-left: 170px;
+   text-align: center;
         font-family: Proxima Nova; font-size: 30pt;
 }
 
