@@ -26,7 +26,7 @@ what I am able to do to a future employer. I think that especially as an Interna
 because the fact that I will eventually need a Visa sponsorship when I'm out of college already puts me one or two steps behind everyone else—regardless of my abilities. 
 Making more and more projects using the tools I've learned in this course will certainly be part of what I can do to try and stand out.
 
-As a last note, I'd like to thank you Jim for being an amazing instructor, and for sharing your clear passion in technical writing with me. This has been an amazing semester, 
-and I hope our paths will meet again, either in the classroom, or outside of it. 
+As a last note, I'd like to thank you Jim for being an amazing instructor, and for sharing your clear passion in technical writing with me. This has been a wonderful semester, 
+and I hope our paths will meet again, either in the classroom or outside of it. 
 
 -Asher
