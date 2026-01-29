@@ -1,7 +1,7 @@
 header{ background-color: RoyalBlue; color: white;
     position: sticky;
        top: 0;
-    font-family: Proxima Nova
+    font-family: Proxima Nova, Helvetica, sans-serif;
 ; font-size: 20pt;
        padding-top: 10px;
        padding-bottom: 15px;
@@ -23,7 +23,7 @@ header{ background-color: RoyalBlue; color: white;
   float: left;
   color: white;
   text-align: center;
-    font-family: Proxima Nova;
+    font-family: Proxima Nova, Helvetica, sans-serif;
   padding: 20px;
 padding-bottom: 5px;
   font-size: 18px;
@@ -42,19 +42,18 @@ padding-bottom: 5px;
 h1{ margin: 25px;
     padding-top: 20px;
    text-align: center;
-        font-family: Proxima Nova; font-size: 30pt;
+        font-family: Proxima Nova, Helvetica, sans-serif; font-size: 30pt;
 }
 
-h2{ margin: 25px; font-family: Proxima Nova; font-size: 28;  padding-left: 170px;
+h2{ margin: 25px; font-family: Proxima Nova, Helvetica, sans-serif; font-size: 28;  padding-left: 170px;
   }
 
-h3{ margin: 25px; font-family: Proxima Nova;  padding-left: 170px;
+h3{ margin: 25px; font-family: Proxima Nova, Helvetica, sans-serif;  padding-left: 170px;
     font-size: 20pt;
 }
 
 body{ margin: 0;
-    font-family: Proxima Nova
-    ; font-size: 16pt;
+    font-family: Proxima Nova, Helvetica, sans-serif; font-size: 16pt;
     line-height: 1.5;
     }
 
@@ -70,8 +69,8 @@ footer{
        margin-top: 20px;
     background-color: RoyalBlue;
     color: white;
-    font-family: Proxima Nova
-    ; font-size: 14pt;
+    font-family: Proxima Nova, Helvetica, sans-serif;
+    font-size: 14pt;
     text-align: center;
     padding: 8pt;
     width: 100%;
